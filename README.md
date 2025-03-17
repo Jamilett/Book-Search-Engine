@@ -1,5 +1,5 @@
 
-# Google Books Search/login/save
+# Google Books Search
 
 ## Description
 App to search for new books to read and keep a list of books to purchase
