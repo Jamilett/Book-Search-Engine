@@ -15,3 +15,4 @@ This project is licensed under the MIT license.
 
 ## Questions
 For any questions, reach out via GitHub: [jamilett](https://github.com/jamilett)  
+Video: https://youtu.be/e7ViNT_QOTU
